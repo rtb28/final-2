@@ -1,5 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("FXAccountsCenterTwoFactorSelectMethodDialogQuery_instagramRelayOperation",[],(function(a,b,c,d,e,f){e.exports="23945068071743323"}),null);
-__d("PolarisLocationPageMobileNameSection.react",["IGDSBox.react","IGDSDivider.react","IGDSText.react","react","react-compiler-runtime"],(function(a,b,c,d,e,f,g){"use strict";var h,i=h||d("react");function a(a){var b=d("react-compiler-runtime").c(5);a=a.name;var e;b[0]!==a?(e=i.jsx(c("IGDSBox.react"),{alignContent:"center",color:"primaryBackground",padding:4,position:"relative",children:i.jsx(c("IGDSText.react"),{size:"label",textAlign:"center",weight:"semibold",children:a})}),b[0]=a,b[1]=e):e=b[1];b[2]===Symbol["for"]("react.memo_cache_sentinel")?(a=i.jsx(c("IGDSDivider.react"),{}),b[2]=a):a=b[2];b[3]!==e?(a=i.jsxs(i.Fragment,{children:[e,a]}),b[3]=e,b[4]=a):a=b[4];return a}g["default"]=a}),98);
-__d("XPolarisExploreLocationsTabNames",["$InternalEnum"],(function(a,b,c,d,e,f){a=b("$InternalEnum")({MOST_RECENT:"recent",NEARBY:"nearby",TOP_POSTS:"top"});c=a;f["default"]=c}),66);
